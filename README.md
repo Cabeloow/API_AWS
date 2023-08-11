@@ -1,10 +1,8 @@
-# Meu Projeto
-
-API de CRUD de pessoas
+# API de CRUD de pessoas
 
 ## Descrição
 
-Projeto desenvolvido demonstração do uso da AWS para criar uma API que execute o CRUD de pessoas através de uma API
+Demonstração do uso da AWS para criar uma API que execute o CRUD de pessoas
 
 ## Funcionalidades
 
@@ -21,6 +19,14 @@ Projeto desenvolvido demonstração do uso da AWS para criar uma API que execute
 1. Clone o repositório: `git clone https://github.com/Cabeloow/case_jr_backend.git`
 2. Navegue para o diretório do projeto: `cd terraform`
 3. Execute o comando "terraform init" e logo em seguida "terraform apply" e por fim "yes" para subir todas as peças da AWS
+
+## Documentação técnica
+
+- Para acessar a documentação técnica basta:
+1. clonar o repositório
+2. abrir o arquivo docs > backend > index.html
+
+OBS: A ideia era colocar no git pages, mas tem que pagar :(
 
 ## Uso
 
@@ -72,7 +78,8 @@ Rotas e payloads;
 
 ## Contato
 
-Nome: João Pedro Guimarães da Silva
-E-mail: jpguimaraes27@hotmail.com
-Celular: 19 99300-7616
+- Nome: João Pedro Guimarães da Silva
+- E-mail: jpguimaraes27@hotmail.com
+- Celular: 19 99300-7616
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-guimar%C3%A3es-silva-b10ab3186/
 
