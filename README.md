@@ -25,7 +25,10 @@ Projeto desenvolvido demonstração do uso da AWS para criar uma API que execute
 ## Documentação técnica
 
 - Para acessar a documentação técnica basta:
-- abrir o arquivo docs > backend > index.html
+1. clonar o repositório
+2. abrir o arquivo docs > backend > index.html
+
+OBS: A ideia era colocar no git pages, mas tem que pagar :(
 
 ## Uso
 
