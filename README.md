@@ -1,10 +1,8 @@
-# Meu Projeto
-
-API de CRUD de pessoas
+# API de CRUD de pessoas
 
 ## Descrição
 
-Projeto desenvolvido demonstração do uso da AWS para criar uma API que execute o CRUD de pessoas através de uma API
+Demonstração do uso da AWS para criar uma API que execute o CRUD de pessoas
 
 ## Funcionalidades
 
@@ -80,7 +78,8 @@ Rotas e payloads;
 
 ## Contato
 
-Nome: João Pedro Guimarães da Silva
-E-mail: jpguimaraes27@hotmail.com
-Celular: 19 99300-7616
+- Nome: João Pedro Guimarães da Silva
+- E-mail: jpguimaraes27@hotmail.com
+- Celular: 19 99300-7616
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-guimar%C3%A3es-silva-b10ab3186/
 
