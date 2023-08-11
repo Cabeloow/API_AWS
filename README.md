@@ -22,6 +22,11 @@ Projeto desenvolvido demonstração do uso da AWS para criar uma API que execute
 2. Navegue para o diretório do projeto: `cd terraform`
 3. Execute o comando "terraform init" e logo em seguida "terraform apply" e por fim "yes" para subir todas as peças da AWS
 
+## Documentação técnica
+
+- Para acessar a documentação técnica basta:
+- abrir o arquivo docs > backend > index.html
+
 ## Uso
 
 Rotas e payloads;
