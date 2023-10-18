@@ -32,14 +32,14 @@ OBS: A ideia era colocar no git pages, mas tem que pagar :(
 
 Rotas e payloads;
 
-- Cadastro: https://2spw209fvf.execute-api.us-east-1.amazonaws.com/desafio/cadastro
+- Cadastro: 
     - Método POST
     - payload exemplo:
         {"cpf": "99988877700", 
         "dados_pessoa":{"nome":  "jp", "sobrenome": "silva", "idade": "20", "pais": "brasil"}}
 
 
-- Consulta: https://2spw209fvf.execute-api.us-east-1.amazonaws.com/desafio/consulta
+- Consulta: 
     - Método GET
     - Exemplo consulta:
         para retornar um item específico:
@@ -49,13 +49,13 @@ Rotas e payloads;
             https://2spw209fvf.execute-api.us-east-1.amazonaws.com/desafio/consulta
 
 
-- Atualiza: https://2spw209fvf.execute-api.us-east-1.amazonaws.com/desafio/atualiza
+- Atualiza: 
     - Método PATCH
     - payload exemplo:
         {"cpf":"99988877700", 
         "update_itens":{"nome":  "jp", "idade": "3"}}
 
-- Delete: https://2spw209fvf.execute-api.us-east-1.amazonaws.com/desafio/delete
+- Delete: 
     - Método DELETE
     - payload exemplo:
         {"cpf": "99988877700"}
