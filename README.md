@@ -43,10 +43,10 @@ Rotas e payloads;
     - Método GET
     - Exemplo consulta:
         para retornar um item específico:
-            https://2spw209fvf.execute-api.us-east-1.amazonaws.com/desafio/consulta?cpf=99988877700
+            caminho_da_api.com/desafio/consulta?cpf=99988877700
 
         para retornar todos os itens:
-            https://2spw209fvf.execute-api.us-east-1.amazonaws.com/desafio/consulta
+            caminho_da_api.com/desafio/consulta
 
 
 - Atualiza: 
